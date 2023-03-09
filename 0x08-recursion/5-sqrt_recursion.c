@@ -25,7 +25,7 @@ int _evaluate(int i, int n)
  * Return: sqrt_recursion
  */
 
-int _sqrt_recursion(int n)
+int _sqrt_recursion(int num)
 {
 	int i = 0;
 
